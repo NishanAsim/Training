@@ -1,0 +1,11 @@
+D:\Code\Trainning\ExceptionTest\obj\Debug\netcoreapp3.0\ExceptionTest.csprojAssemblyReference.cache
+D:\Code\Trainning\ExceptionTest\obj\Debug\netcoreapp3.0\ExceptionTest.AssemblyInfoInputs.cache
+D:\Code\Trainning\ExceptionTest\obj\Debug\netcoreapp3.0\ExceptionTest.AssemblyInfo.cs
+d:\Code\Trainning\ExceptionTest\bin\Debug\netcoreapp3.0\ExceptionTest.exe
+D:\Code\Trainning\ExceptionTest\bin\Debug\netcoreapp3.0\ExceptionTest.deps.json
+D:\Code\Trainning\ExceptionTest\bin\Debug\netcoreapp3.0\ExceptionTest.runtimeconfig.json
+D:\Code\Trainning\ExceptionTest\bin\Debug\netcoreapp3.0\ExceptionTest.runtimeconfig.dev.json
+d:\Code\Trainning\ExceptionTest\bin\Debug\netcoreapp3.0\ExceptionTest.dll
+d:\Code\Trainning\ExceptionTest\bin\Debug\netcoreapp3.0\ExceptionTest.pdb
+d:\Code\Trainning\ExceptionTest\obj\Debug\netcoreapp3.0\ExceptionTest.dll
+d:\Code\Trainning\ExceptionTest\obj\Debug\netcoreapp3.0\ExceptionTest.pdb
