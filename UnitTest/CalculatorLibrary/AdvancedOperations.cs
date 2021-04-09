@@ -20,5 +20,22 @@ namespace CalculatorLibrary
 
             return result;
         }
+
+
+        public int ExponentialAdvanced(IArithmeticOperators arithmeticOperators, int baseNumber, int index)
+        {
+            if (index < 0)
+            {
+                throw new ArgumentException(nameof(index), "Power should not be -ve");
+            }
+
+            int result = 1;
+            for (int i = 0; i < index; i++)
+            {
+                result = arithmeticOperators.Multiply(result, baseNumber);
+            }
+
+            return result;
+        }
     }
 }

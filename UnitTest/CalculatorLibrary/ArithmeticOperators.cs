@@ -2,7 +2,13 @@
 
 namespace CalculatorLibrary
 {
-    public class ArithmeticOperators
+    public interface IArithmeticOperators
+    {
+        int Add(int first, int second);
+        int Multiply(int first, int second);
+    }
+
+    public class ArithmeticOperators : IArithmeticOperators
     {
         public int Add(int first, int second)
         {
@@ -11,7 +17,7 @@ namespace CalculatorLibrary
 
         public int Multiply(int first, int second)
         {
-            return first * second;
+            return first + second;
         }
     }
 }

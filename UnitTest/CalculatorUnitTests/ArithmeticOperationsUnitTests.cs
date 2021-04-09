@@ -38,7 +38,7 @@ namespace CalculatorUnitTests
             var arithOperator = new ArithmeticOperators();
             int first = -10;
             int second = -20;
-            int expectedResult = -10;
+            int expectedResult = -30;
 
             int result = arithOperator.Add(first, second);
 
